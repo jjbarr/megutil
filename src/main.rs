@@ -1,3 +1,6 @@
+//Copyright (C) Joshua Barrett 2020
+//This code is licensed under the BSD 3-clause license. See LICENSE.txt for more
+//information.
 use clap::clap_app;
 use std::process::exit;
 use std::fs::{File, create_dir_all};

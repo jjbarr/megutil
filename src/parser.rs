@@ -1,3 +1,6 @@
+//Copyright (C) Joshua Barrett 2020
+//This code is licensed under the BSD 3-clause license. see LICENSE.txt for more
+//information.
 use std::io::{SeekFrom, prelude::*};
 use std::collections::HashMap;
 use std::collections::hash_map::Keys;
